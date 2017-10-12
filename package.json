@@ -21,16 +21,16 @@
     "framework"
   ],
   "dependencies": {
-    "bluebird": "3.5.0",
-    "boom": "5.2.0",
+    "bluebird": "3.5.1",
+    "boom": "6.0.0",
     "content-type": "1.0.4",
     "filepath": "1.1.0",
     "iconv-lite": "0.4.19",
     "path-to-regexp": "2.0.0",
     "pluralize": "7.0.0",
-    "ramda": "0.24.1"
+    "ramda": "0.25.0"
   },
   "devDependencies": {
-    "eslint": "4.6.1"
+    "eslint": "4.8.0"
   }
 }
